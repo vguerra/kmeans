@@ -1,2 +1,7 @@
 logs/*
 output/*
+scala/target/*
+scala/project/*
+*/.idea/*
+*.vscode/*
+~
